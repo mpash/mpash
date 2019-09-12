@@ -3,6 +3,7 @@
 namespace App;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
@@ -16,7 +17,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'first_name', 'last_name', 'password',
     ];
 
     /**
@@ -29,11 +30,10 @@ class User extends Authenticatable
     ];
 
     /**
-     * The attributes that should be cast to native types.
-     *
-     * @var array
+     * @return HasMany|UserEmail[]
      */
-    protected $casts = [
-        'email_verified_at' => 'datetime',
-    ];
+    public function emails(): HasMany
+    {
+        return $this->hasMany(UserEmail::class);
+    }
 }

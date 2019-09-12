@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Mitch Pash</title>
 </head>
-<body>
+<body style="margin: 0 0;">
 <div id="app"></div>
 <script src="{{ env('APP_URL') }}:1234/app.js"></script>
 </body>
