@@ -22,3 +22,5 @@ jobs:
         run: composer require hirak/prestissimo
       - name: Composer Install
         run: composer install
+      - name: Run PHPUnit Tests
+        run: phpunit
