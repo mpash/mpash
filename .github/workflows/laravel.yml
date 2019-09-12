@@ -1,0 +1,20 @@
+steps:
+- name: Checkout
+  uses: actions/checkout@master
+- name: Installing PHP
+  uses: shivammathur/setup-php@master
+  with:
+    php-version: 7.3
+    extension-csv: mbstring, redis
+- name: Check PHP Version
+  run: php -v
+- name: Check Composer Version
+  run: composer -V
+- name: Check PHP Extensions
+  run: php -m
+- name: Composer Parallel Plugin
+  run: composer require hirak/prestissimo
+- name: Composer Install
+  run: composer install
+- name: Run Tests
+  run: /vendor/bin/phpunit
