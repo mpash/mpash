@@ -4,7 +4,7 @@ on: [push]
 jobs:
   build:
     name: Testing
-    runs-on: laravel
+    runs-on: ubuntu-latest
     steps:
       - name: Run PHPUnit Tests
           run: phpunit
