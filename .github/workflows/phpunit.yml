@@ -1,0 +1,10 @@
+name: Testing Suite
+on: [push]
+
+jobs:
+  build:
+    name: Testing
+    runs-on: laravel
+    steps:
+      - name: Run PHPUnit Tests
+          run: phpunit

@@ -1,3 +1,4 @@
+name: Build Image
 on: [push]
 jobs:
   build:
@@ -21,5 +22,3 @@ jobs:
         run: composer require hirak/prestissimo
       - name: Composer Install
         run: composer install
-      - name: Run Tests
-        run: phpunit
