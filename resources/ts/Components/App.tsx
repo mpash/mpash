@@ -1,21 +1,19 @@
-import React, { Component } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Home from "./Home";
 import NotFound from "./NotFound";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-export default class App extends Component {
-    render() {
-        return (
-            <BrowserRouter>
-                <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route component={NotFound} />
-                </Switch>
-            </BrowserRouter>
-        );
-    }
-}
+const App = () => (
+    <BrowserRouter>
+        <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="*" element={<NotFound />} />
+        </Routes>
+    </BrowserRouter>
+);
+
+export default App;
 
 if (document.getElementById("app")) {
     ReactDOM.render(<App />, document.getElementById("app"));

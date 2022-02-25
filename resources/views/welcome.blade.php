@@ -9,6 +9,7 @@
 </head>
 <body style="margin: 0 0;">
 <div id="app"></div>
-<script src="{{ env('APP_URL') }}:1234/app.js"></script>
+{{--<script src="{{ env('APP_URL') }}:1234/app.js"></script>--}}
+<script src="/js/app.js"></script>
 </body>
 </html>

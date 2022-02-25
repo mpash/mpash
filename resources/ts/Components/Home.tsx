@@ -1,13 +1,7 @@
-/** @jsx jsx */
-import { jsx, css } from "@emotion/core";
-import React, { Component } from "react";
+import React from "react";
 
-export default class Home extends Component {
-    render() {
-        return (
-            <div>
-              Home Test
-            </div>
-        );
-    }
-}
+const Home = () => (
+    <>Hello World</>
+);
+
+export default Home;
