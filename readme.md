@@ -1,6 +1,6 @@
 | ☕️ | Hi, I’m @mpash |
 |-|-|
-| ![Headshot](https://i.ibb.co/SxwnYqX/66111051658-37-FEC592-287-C-47-AD-B67-A-44127-D1-DF22-B-fullsizerender.jpg)| I currently work [@Bushel](https://bushelpowered.com) digitizng Agriculture and making meaningful expereinces for farmers, elevators, and proccessing facilities. |
+| ![Headshot](https://i.ibb.co/SxwnYqX/66111051658-37-FEC592-287-C-47-AD-B67-A-44127-D1-DF22-B-fullsizerender.jpg)| I currently work [@Bushel](https://bushelpowered.com) on the __Agronomy & Fullfilment__ teams – digitizng Agriculture and making meaningful expereinces for farmers, elevators, and proccessing facilities. |
 
 - We're always looking for talent, please consider [checking out our carrers page](https://bushelpowered.com/careers).
 
