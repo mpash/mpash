@@ -4,11 +4,6 @@
 
 - We're always looking for talent, please consider [checking out our carrers page](https://bushelpowered.com/careers).
 
-- 👀 I’m interested in Frontend Web Developement, Home Automation, and DIY Builder Projects
-- 🌱 I’m currently learning Animation, State Machines, NextJS, and Chakra
-- 📫 Reach me at mitch@mitchpash.com
-
-<!---
-mpash/mpash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in 🕸 Frontend Web Developement, 🛋 Home Automation, and 🛠 DIY/Maker Projects
+- 🌱 I’m currently learning ✨ Animation, 🧮 State Machines, 🕸 NextJS, and 🧘🏻 Chakra
+- 📫 Please feel to reach me here: mitch@mitchpash.com
