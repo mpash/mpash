@@ -20,8 +20,7 @@
     <img src='https://img.shields.io/badge/-React%20Query-white?style=for-the-badge&logo=react-query&logoColor=white&color=ff4255' />
     <img src='https://img.shields.io/badge/-React%20Table-white?style=for-the-badge&logo=react-table&logoColor=white&color=0068b3' />
     <img src='https://img.shields.io/badge/-React%20Router-white?style=for-the-badge&logo=react-router&logoColor=white&color=f44250' />
-    <img src='https://img.shields.io/badge/-NextJS-white?style=for-the-badge&logo=next.js&
-    logoColor=white&color=000000' />
+    <img src='https://img.shields.io/badge/-NextJS-white?style=for-the-badge&logo=next.js&logoColor=white&color=000000' />
     <img src='https://img.shields.io/badge/-NodeJS-white?style=for-the-badge&logo=node.js&logoColor=white&color=046e01' />
     <img src='https://img.shields.io/badge/-Azure%20DevOps-white?style=for-the-badge&logo=azure-devops&logoColor=white&color=0078d4' />
     <img src='https://img.shields.io/badge/-Adobe%20Suite-white?style=for-the-badge&logo=adobe&logoColor=white&color=f91101' />
