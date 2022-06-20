@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ✨ Animation, 🧮 State Machines, 🕸 NextJS, and 🧘🏻 Chakra
 - 📫 Please feel to reach me here: mitch@mitchpash.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpash&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpash&count_private=true&show_icons=true&theme=algolia)](https://github.com/mpash)
 
 ## My Favorite Tools
 <div>
